@@ -1,6 +1,3 @@
-# Crime-Analysis-of-Indian-States-from-2001-2014
-This Data Analytics BootCamp coducted by IBM Skillsbuild was a very good experience for me to understand Data analysis, data visualization and preprocessing. Tableau working and creating Dashboards of the projects,etc
-
 # India Crime Analysis Dashboard – Tableau
 
 ## 📊 About the Project
@@ -26,6 +23,9 @@ I cleaned and analyzed the dataset and then built an interactive dashboard in **
 
 ```text
 Dataset → Data Cleaning → Analysis → Tableau Visualization → Dashboard
+```
 
+## 🔗 Live Dashboard
 
-Tableau Public Link: https://public.tableau.com/app/profile/vivek.mohite5594/viz/IndiaCrimeAnalysis2001-2012/IndiaCrime2001-2012?publish=yes
+Check out the interactive dashboard on Tableau Public:
+[India Crime Analysis 2001–2012](https://public.tableau.com/app/profile/vivek.mohite5594/viz/IndiaCrimeAnalysis2001-2012/IndiaCrime2001-2012?publish=yes)
